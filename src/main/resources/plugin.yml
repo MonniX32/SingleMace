@@ -1,0 +1,11 @@
+name: SingleMace
+version: 1.0
+main: com.singlemace.SingleMace
+api-version: '1.21'
+author: ChatGPT
+description: Allows only one mace craft per server.
+
+commands:
+  macecrafted:
+    description: Shows if the mace has already been crafted.
+    usage: /macecrafted
